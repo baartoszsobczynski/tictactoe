@@ -2,10 +2,9 @@
 
 ##Features 
 
--Bad user input handling
+-User's bad input handling
 
 ##To implement
 
--Checking if there is a winner algorithm.
-
 -Playing with AI
+-Custom grid (now works only 3x3)
